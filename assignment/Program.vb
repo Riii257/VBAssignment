@@ -43,7 +43,7 @@ Module Program
         Write("Enter marks 2: ")
         mks2 = ReadLine()
 
-        ' Calling Constructir
+        ' Calling Constructor
         St1.GetDetails(id, nm, mks1, mks2)
 
 
